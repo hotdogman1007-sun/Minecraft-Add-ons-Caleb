@@ -41,4 +41,4 @@ My focus is on creating content that **inspires creativity and exploration** in 
 ---
 
 ## 📫 Connect  
-- GitHub: [github.com/YOUR-USERNAME](https://github.com/hotdogman1007-sun)  
+- GitHub: [github.com/Hotdogman1007](https://github.com/hotdogman1007-sun)  
